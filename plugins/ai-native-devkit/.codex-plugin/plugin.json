@@ -1,0 +1,21 @@
+{
+  "name": "ai-native-devkit",
+  "version": "0.4.1",
+  "description": "Route, execute, verify, and document software delivery work with AI Native DevKit.",
+  "author": { "name": "AI Native DevKit Maintainers" },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "AI Native DevKit",
+    "shortDescription": "Plan, build, debug, and document code",
+    "longDescription": "A structured software delivery workflow covering task routing, context initialization, clarification, design, planning, execution, debugging, verification, and documentation synchronization.",
+    "developerName": "AI Native DevKit Maintainers",
+    "category": "Developer Tools",
+    "capabilities": ["Interactive", "Read", "Write"],
+    "defaultPrompt": [
+      "Use the Coding SOP to handle this engineering task.",
+      "Initialize this project's development context.",
+      "Verify the current software change."
+    ],
+    "brandColor": "#2563EB"
+  }
+}

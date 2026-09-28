@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "documents": {
+    "docs/runbooks/rds-schema-change.md": {
+      "source": "docs-template/runbooks/rds-schema-change.md",
+      "currentVersion": "1",
+      "versions": {
+        "1": "sha256:8de0731dfdd88d73fc660d718861640601250d8c9650d6aebcedc6b989666452"
+      }
+    },
+    "docs/runbooks/rds-data-query.md": {
+      "source": "docs-template/runbooks/rds-data-query.md",
+      "currentVersion": "1",
+      "versions": {
+        "1": "sha256:f19c4212c26d9641c4e1d9ca1f33b525d131d0d6b08db80002ce60b195822ef9"
+      }
+    },
+    "docs/runbooks/apollo-config.md": {
+      "source": "docs-template/runbooks/apollo-config.md",
+      "currentVersion": "1",
+      "versions": {
+        "1": "sha256:853b99b823d17adfb1b3fe0e81d22e94e7a32f77eb8dba4aafb31034396c8762"
+      }
+    },
+    "docs/runbooks/kms-secret.md": {
+      "source": "docs-template/runbooks/kms-secret.md",
+      "currentVersion": "1",
+      "versions": {
+        "1": "sha256:b0fbbfe4f13c7a901383ca120873cd74976aad7f028269d395630bdca78837fc"
+      }
+    }
+  }
+}

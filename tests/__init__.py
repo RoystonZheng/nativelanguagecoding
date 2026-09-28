@@ -1,0 +1,1 @@
+"""Coding SOP plugin tests."""

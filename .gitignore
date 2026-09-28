@@ -1,0 +1,6 @@
+.DS_Store
+.superpowers/
+.worktrees/
+.scratch/
+__pycache__/
+*.pyc
